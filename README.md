@@ -1,9 +1,13 @@
 # Algebraic_TDOA_Lcalization_MPR
-Two algebracic solutions for TDOA localization in MPR, called Successive Unconstraint Solution (SUM) and Generized Trust Region Subproblem (GTRS) solution.
+Two algebraic solutions for TDOA localization in MPR called Successive Unconstraint Solution (SUM) and Generalized Trust Region Subproblem (GTRS) solution.
 
-## Algebracic solution for TDOA localization in MPR (02/15/2020)
+**If you use any of the following codes in your research, please cite the paper as a reference in your publication. Thank you!**
 
-Reference: Y. Sun, K. C. Ho, and Q. Wan, “Solution and analysis of TDOA localization of a near or distant source in closed form,” IEEE Trans. Signal Process., vol. 67, no. 2, pp. 320-335, Jan. 2019.
+## Algebraic solution for TDOA localization in MPR (02/15/2020)
+
+<u>Reference</u>
+>Y. Sun, K. C. Ho, and Q. Wan, “Solution and analysis of TDOA localization of a near or distant source in closed form,” *IEEE Trans. Signal Process.*, vol. 67, no. 2, pp. 320-335, Jan. 2019.
+  
 - SUM Solution: TDOA_SUM_MPR
 - GTRS Solution: TDOA_GTRS_MPR
 - CRLB: TDOALocCRLB_MPR
