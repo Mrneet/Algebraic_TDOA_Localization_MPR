@@ -5,9 +5,10 @@ Two algebraic solutions for TDOA localization in MPR called Successive Unconstra
 
 ## Algebraic solution for TDOA localization in MPR (02/15/2020)
 
-<u>Reference</u>
+### <u>Reference</u>
 >Y. Sun, K. C. Ho, and Q. Wan, “Solution and analysis of TDOA localization of a near or distant source in closed form,” *IEEE Trans. Signal Process.*, vol. 67, no. 2, pp. 320-335, Jan. 2019.
-  
+
+### Code List
 - SUM Solution: TDOA_SUM_MPR
 - GTRS Solution: TDOA_GTRS_MPR
 - CRLB: TDOALocCRLB_MPR
